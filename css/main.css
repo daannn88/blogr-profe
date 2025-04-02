@@ -98,7 +98,7 @@ body {
 .btn-primary{
     background: white;
     border: 1px solid white;
-    color: var(--Coral-Reef);
+    color: var(--color-Bittersweet);
     box-sizing: border-box;
 }
 
@@ -114,6 +114,25 @@ body {
     flex-grow: 1;
     max-height: 100vh;
     height: 100vh;
+}
+
+.section-call-to-action {
+    color: white;
+    background: var(--color-Bittersweet);
+    height: 44rem;
+    display: flex;
+    border-radius: 0 0 0 12rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.4rem;
+    margin: 4rem 0;
 }
 
 /**footer*/
