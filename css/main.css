@@ -302,7 +302,7 @@ footer{
     }
     .content-free-open-simple{
         display: flex;
-        margin: 7rem 0;
+        margin: 15rem 0 0 0;
         gap: 2rem;
         justify-content: center;
         align-items: center;
